@@ -2,7 +2,7 @@
 ##in Amazon S3.
 
 ##Author: Ian Breckheimer
-##Updated: 1-10-2023
+##Updated: 1-16-2024
 #install.packages("terra)
 
 ##Sets up workspace
@@ -10,7 +10,7 @@ library(terra)
 
 
 ##Project directory
-proj_dir <- "~/code/BIOL697_Remote_Sensing_2023Spring/"
+proj_dir <- "~/code/BIOL697_Remote_Sensing_2024Spring/"
 
 ##Sets working directory.
 setwd(proj_dir)
